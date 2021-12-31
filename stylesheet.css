@@ -1,0 +1,126 @@
+body{
+    font-family: "monospace";
+}
+
+li{
+    list-style: none;
+}
+
+.header{
+    background-color: beige;
+    color: olive;
+    height: auto;
+}
+
+.header-logo{
+    color: blue;
+    font-size: 40px;
+    float: left;
+    padding: 20px 40px;
+}
+
+.header-list li{
+    float: left;
+    padding: 33px 20px
+}
+
+.main{
+    background-color: burlywood;
+    padding: 100px 80px;
+}
+
+.copy-container h1{
+    font-size: 140px;
+}
+
+.copy-container h2{
+    font-size: 60px;
+}
+
+.contents{
+    height: 500px;
+    margin-top: 100px;
+}
+
+.section-title{
+    border-bottom: 2px solid black;
+    font-size: 30px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+
+.contents-item{
+    float: left;
+    margin-bottom: 40px;
+}
+
+.contents-item p{
+    font-size: 24px;
+    margin-top: 30px;
+}
+
+.calendar{
+    background-color: cadetblue;
+    height: 300px;
+}
+
+.calendar-item{
+    float: none;
+    width: 100px;
+    height: 50px;
+}
+
+.calender-title{
+    font-size: 40px;
+    color: red;
+    padding: 20px 10px;
+}
+
+.calendar-red{
+    color: red;
+}
+
+.calendar-info{
+    font-size: 40px;
+    color: red;
+    padding-top: 20px;
+}
+
+.contact-form{
+    padding-top: 100px;
+}
+
+input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid black;
+}
+
+.contact-submit{
+    background-color: rgb(29, 27, 27);
+    color: silver;
+}
+
+.footer{
+    background-color: navy;
+    color: white;
+    height: 120px;
+    padding: 40px;
+}
+
+.footer-logo{
+    font-size: 32px;
+    float: left;
+}
+
+.footer-list{
+    float: right;
+}
+
+.footer-list li{
+    padding-bottom: 20px;
+}
+
